@@ -26,6 +26,16 @@ This facet requires to have the value indexed as a `FieldIndex` in the Plone bac
 
 At this moment the values need to be indexes as strings in the Plone backend. We will be working on supporting also values indexed as ints in the backend.
 
+When configuring the facet, it allows to define the step in which the range will be moved up and down and it automatically detects the lower and highest values of the range.
+
+## Images
+
+![full range](./docs/full-range.png)
+
+![lower range](./docs/lower-range.png)
+
+![both ranges](./docs/both-ranges.png)
+
 ## Getting started
 
 ### Try volto-doublerange-facet with Docker
