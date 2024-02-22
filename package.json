@@ -16,7 +16,9 @@
     "type": "git",
     "url": "git@github.com:eea/volto-doublerange-facet.git"
   },
-  "dependencies": {},
+  "dependencies": {
+    "react-input-range": "^1.3.0"
+  },
   "devDependencies": {
     "@plone/scripts": "*",
     "@cypress/code-coverage": "^3.10.0",
