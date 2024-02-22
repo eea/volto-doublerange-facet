@@ -1,0 +1,33 @@
+.input-range__track--active,
+.input-range__slider {
+  border: @primaryColor;
+  background: @primaryColor;
+}
+
+/* first label, prevents overlapping*/
+.input-range__track.input-range__track--background
+  span.input-range__slider-container:nth-child(2)
+  span.input-range__label.input-range__label--value {
+  width: 0;
+  direction: rtl;
+  white-space: nowrap;
+}
+
+/* second label, prevents overlapping when both labels are long */
+.input-range__track.input-range__track--background
+  span.input-range__slider-container:nth-child(3)
+  span.input-range__label.input-range__label--value,
+span.input-range__label.input-range__label--max {
+  width: 0;
+}
+
+.range-facet {
+  padding-right: 15px;
+}
+
+.range-facet-container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
