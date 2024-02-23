@@ -1,6 +1,5 @@
-import { SelectFacetFilterListEntry } from '@plone/volto/components/manage/Blocks/Search/components';
 import DoubleRangeFacet from './components/facets/DoubleRangeFacet';
-
+import DoubleRangeFacetFilterListEntry from './components/facets/DoubleRangeFacetFilterListEntry';
 const applyConfig = (config) => {
   config.blocks.blocksConfig.search.extensions.facetWidgets.types = [
     ...config.blocks.blocksConfig.search.extensions.facetWidgets.types,
@@ -12,7 +11,7 @@ const applyConfig = (config) => {
       schemaEnhancer: DoubleRangeFacet.schemaEnhancer,
       stateToValue: DoubleRangeFacet.stateToValue,
       valueToQuery: DoubleRangeFacet.valueToQuery,
-      filterListComponent: SelectFacetFilterListEntry,
+      filterListComponent: DoubleRangeFacetFilterListEntry,
     },
   ];
   return config;
