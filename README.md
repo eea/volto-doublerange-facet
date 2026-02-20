@@ -3,16 +3,16 @@
 [![Releases](https://img.shields.io/github/v/release/eea/volto-doublerange-facet)](https://github.com/eea/volto-doublerange-facet/releases)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-doublerange-facet%2Fmaster&subject=master)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-doublerange-facet/job/master/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-master&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-master)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-master&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-master)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-master&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-master)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-master&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-master)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet)
 
 [![Pipeline](https://ci.eionet.europa.eu/buildStatus/icon?job=volto-addons%2Fvolto-doublerange-facet%2Fdevelop&subject=develop)](https://ci.eionet.europa.eu/view/Github/job/volto-addons/job/volto-doublerange-facet/job/develop/display/redirect)
-[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-develop)
-[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-develop)
-[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-develop)
-[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet-develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet-develop)
+[![Lines of Code](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&branch=develop&metric=ncloc)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet&branch=develop)
+[![Coverage](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&branch=develop&metric=coverage)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet&branch=develop)
+[![Bugs](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&branch=develop&metric=bugs)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet&branch=develop)
+[![Duplicated Lines (%)](https://sonarqube.eea.europa.eu/api/project_badges/measure?project=volto-doublerange-facet&branch=develop&metric=duplicated_lines_density)](https://sonarqube.eea.europa.eu/dashboard?id=volto-doublerange-facet&branch=develop)
 
 [Volto](https://github.com/plone/volto) add-on
 
